@@ -1,1 +1,1 @@
-PROJECT FROM SCRATCH
+Project setup from scratch practice
